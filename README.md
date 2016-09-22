@@ -22,5 +22,5 @@ To get your timeline started, please propose dates for the major milestones of t
 
 1. literature review done
 2. 12/2: outline and first chapter complete
-3. first draft of full document done
+3. 3/24: first draft of full document done
 4. final draft of full document done

@@ -21,6 +21,6 @@ The README.md file is the one that contains the text that you're reading right n
 To get your timeline started, please propose dates for the major milestones of the thesis:
 
 1. literature review done
-2. outline and first chapter complete
+2. 12/2: outline and first chapter complete
 3. first draft of full document done
 4. final draft of full document done
